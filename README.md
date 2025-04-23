@@ -8,6 +8,7 @@ Final project for PHYS 216 (Astrophysics) at Queen’s University. This project 
 
 - `EDA.ipynb` – Jupyter notebook with all data cleaning, analysis, and visualization steps
 - `NGC6397_Analysis.pdf` – Full report detailing calculations, scientific context, and key findings
+- `GAIA_RESULTS.csv` – Query results from GAIA Archive stored as a csv file
 
 ---
 
