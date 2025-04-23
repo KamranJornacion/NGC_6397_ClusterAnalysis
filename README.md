@@ -6,8 +6,8 @@ Final project for PHYS 216 (Astrophysics) at Queen’s University. This project 
 
 ## 📁 Contents
 
-- `Cleaned_NGC6397_EDA.ipynb` – Jupyter notebook with all data cleaning, analysis, and visualization steps
-- `NGC6397_Report.pdf` – Full report detailing calculations, scientific context, and key findings
+- `EDA.ipynb` – Jupyter notebook with all data cleaning, analysis, and visualization steps
+- `NGC6397_Analysis.pdf` – Full report detailing calculations, scientific context, and key findings
 
 ---
 
